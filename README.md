@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Vaibhava G
 
-<!--
-**vaibhavpoojari/vaibhavpoojari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student | 💻 Developer | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building practical applications, solving problems, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Full-Stack Development & AI  
+🧠 Passionate about software development and problem-solving  
+🚀 I like turning ideas into practical and useful applications  
+🌱 Always curious to learn, experiment, and improve  
+
+### 🛠️ Tech Stack
+
+**Languages:** Java • JavaScript • Python • SQL  
+**Frontend:** React • HTML • CSS • Vite  
+**Backend:** Node.js • Express.js • REST APIs  
+**Database:** MongoDB • MySQL  
+**Tools:** Git • GitHub • VS Code • Postman  
+
+### 🎯 Goal
+
+To build useful software, strengthen my problem-solving skills, and keep growing as a developer.
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaibhava-g-419394324/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/__vybz_poojary__/)
