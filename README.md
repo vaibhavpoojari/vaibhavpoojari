@@ -7,15 +7,7 @@ I enjoy building practical applications, solving problems, and exploring new tec
 💻 Interested in Full-Stack Development & AI  
 🧠 Passionate about software development and problem-solving  
 🚀 I like turning ideas into practical and useful applications  
-🌱 Always curious to learn, experiment, and improve  
-
-### 🛠️ Tech Stack
-
-**Languages:** Java • JavaScript • Python • SQL  
-**Frontend:** React • HTML • CSS • Vite  
-**Backend:** Node.js • Express.js • REST APIs  
-**Database:** MongoDB • MySQL  
-**Tools:** Git • GitHub • VS Code • Postman  
+🌱 Always curious to learn, experiment, and improve   
 
 ### 🎯 Goal
 
